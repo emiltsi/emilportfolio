@@ -1,27 +1,46 @@
 ---
-title: 🪴 Quartz 3.2
+title: Emil Tsikhanovich
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+#### Hello, I'm Emil. I'm a first-year Mechanical Engineering Student at the University of Warwick.
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]]
-5. Support for both Markdown Links and Wikilinks
+View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
 
-## Get Started
-> 📚 [Setup your own digital garden using Quartz](notes/setup.md)
+## Projects
 
-Not convinced yet? Look at some [community digital gardens](notes/showcase.md) built with Quartz, or read about [why I made Quartz](notes/philosophy.md) to begin with.
+Here are some recent projects I've completed:
 
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
+- [Original portfolio website](https://emiltsi.github.io)
+- [Engineering Design Portfolio]
+- [Engineering Dragster Group Project]
 
-- [All Notes](/notes)
-- [Setup-related Notes](/tags/setup)
+## Skills 
 
-## Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+- MathWorks MATLAB and Simulink
+- Fusion 360 CAD/CAE
+- HTML/CSS web development
+- Native in Russian and English
+
+## My notes
+
+Below you can view a link to some notes I've made. You can also use the **interactive graph** below.
+
+
+
+## Motivation
+
+This website was made with Quartz and [Obsidian](https://obsidian.md/).
+
+I've always had a passion and interest for cars, and I hope to work in automotive design and development in the future.
+
+
+## Contact
+
+Feel free to email me at **emil.tsikhanovich@gmail.com**
+
+
+Thanks.
+
+
+
+
