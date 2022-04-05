@@ -34,7 +34,7 @@ Below you can view a link to some personal thoughts and notes (mostly on cars) I
 
 This website is based on source code from Quartz and [Obsidian](https://obsidian.md/) markdown.
 
-I've always had a passion and interest for cars, and I hope to develop a career in automotive design and development in the future (for the most part, body and chassis engineering).
+I've always had a passion and interest for cars, and I hope to develop a career in automotive design and development in the future.
 
 
 ## Contact
