@@ -1,8 +1,7 @@
 ---
 title: Emil Tsikhanovich
 ---
-
-#### Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick.
+>Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. Welcome to my page.
 
 View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
 
@@ -42,8 +41,7 @@ I've always had a passion and interest for cars, and I hope to work in automotiv
 
 Feel free to email me at **emil.tsikhanovich@gmail.com**.
 
-
->Less is more.
+>Thank you
 
 
 
