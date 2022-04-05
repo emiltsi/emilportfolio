@@ -8,7 +8,7 @@ View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc47
 
 ## Projects
 
-Here are some recent [projects](/tags/projects) I've completed:
+Here are some recent projects I've completed:
 
 - [Original portfolio website](emil/projects/Original%20portfolio%20website.md)
 - [Interactive 3D website](emil/projects/Interactive%203D%20website.md)

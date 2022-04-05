@@ -4,9 +4,9 @@ tags:
 - projects
 ---
 
-🔗 Link to the website [here](https://emiltsi.github.io/)
+🔗   Link to the website [here](https://emiltsi.github.io/)
 
-🔗 Link to the GitHub repo [here](https://github.com/emiltsi/emiltsi.github.io/)
+🔗   Link to the GitHub repo [here](https://github.com/emiltsi/emiltsi.github.io/)
 
 ## Overview
 
