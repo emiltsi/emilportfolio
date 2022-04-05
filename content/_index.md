@@ -22,7 +22,7 @@ Here are some recent projects I've completed:
 - HTML/CSS web development
 - Native in Russian and English
 
-## My notes
+## Notes
 
 Below you can view a link to some notes I've made. You can also use the **interactive graph** below.
 
