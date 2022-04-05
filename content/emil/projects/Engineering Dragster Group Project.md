@@ -9,3 +9,5 @@ tags:
 ## Overview
 
 This group project was completed as part of Warwick's Engineering Design module. The main task involved the creation of a dragster, given a limited set of materials.
+
+![Image of dragster](/emil/images/dragster.png)
