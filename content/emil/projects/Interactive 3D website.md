@@ -4,9 +4,9 @@ tags:
 - projects
 ---
 
-🔗   Link to the website [here](https://emilportfoliotest.vercel.app/)
+**Link to the website** [here](https://emilportfoliotest.vercel.app/)
 
-🔗   Link to the GitHub repo [here](https://github.com/emiltsi/portfoliotest/)
+**Link to the GitHub repo** [here](https://github.com/emiltsi/portfoliotest/)
 
 ## Overview
 
