@@ -1,7 +1,7 @@
 ---
 title: emilt.xyz
 ---
-Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. Welcome to my page.
+Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. I hope to develop a career in automotive design and development in the future.Welcome to my page.
 
 >View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
 
@@ -30,12 +30,9 @@ Below you can view a link to some personal thoughts and notes (mostly on cars) I
 - [All of my other notes](/emil)
 
 
-## Motivation
+## Background
 
 This website is based on source code from Quartz and [Obsidian](https://obsidian.md/) markdown.
-
-I've always had a passion and interest for cars, and I hope to develop a career in automotive design and development in the future.
-
 
 ## Contact
 
