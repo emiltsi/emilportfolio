@@ -1,5 +1,6 @@
 ---
 title: Emil Tsikhanovich
+disableToc: false
 ---
 
 #### Hello, I'm Emil. I'm a first-year Mechanical Engineering Student at the University of Warwick.
