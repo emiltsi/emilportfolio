@@ -1,5 +1,5 @@
 ---
-title: Emil Tsikhanovich
+title: emilt.xyz
 ---
 >Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. Welcome to my page.
 
