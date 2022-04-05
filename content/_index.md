@@ -1,9 +1,9 @@
 ---
 title: emilt.xyz
 ---
->Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. Welcome to my page.
+Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. Welcome to my page.
 
-View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
+>View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
 
 ## Projects
 
@@ -24,24 +24,25 @@ Here are some recent projects I've completed:
 
 ## Notes
 
-Below you can view a link to some notes I've made. You can also use the **interactive graph** below.
+Below you can view a link to some notes and personal memoirs I've made. You can also use the **interactive graph** below.
 
-- [All notes](/emil)
-
+- [The automotive industry and cars](/tags/cars)
+- [All of my projects](/tags/projects)
+- [List of all of my notes](/emil)
 
 
 ## Motivation
 
-This website was made with Quartz and [Obsidian](https://obsidian.md/).
+This website is based on source code from Quartz and [Obsidian](https://obsidian.md/) markdown.
 
-I've always had a passion and interest for cars, and I hope to work in automotive design and development in the future.
+I've always had a passion and interest for cars, and I hope to develop a career in automotive design and development in the future (for the most part, body and chassis engineering).
 
 
 ## Contact
 
 Feel free to email me at [emil.tsikhanovich@gmail.com](https://mailto:emil.tsikhanovich@gmail.com)
 
-Thank you.
+**Thank you.**
 
 
 

@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a0e84bdd3f6720c",
+        "id": "8f8d48f21fda3baa",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "projects/Original portfolio website.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Original portfolio website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +82,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7a0e84bdd3f6720c",
+  "active": "8f8d48f21fda3baa",
   "lastOpenFiles": [
+    "cars/Untitled.md",
     "projects/Original portfolio website.md",
     "projects/Engineering Design Portfolio.md",
     "projects/Interactive 3D website.md",
@@ -96,7 +93,6 @@
     "JLR Test Day/2) Behavioural interview Q&A.md",
     "JLR Test Day/3) Pre-prepared presentation.md",
     "JLR Test Day/The History and Future of Jaguar Land Rover - Article.md",
-    "JLR Test Day/Range Rover 2022 information.md",
-    "JLR Test Day/Extra/31 03 22.md"
+    "JLR Test Day/Range Rover 2022 information.md"
   ]
 }
