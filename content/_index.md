@@ -1,7 +1,7 @@
 ---
 title: emilt.xyz
 ---
-Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. I hope to develop a career in automotive design and development in the future.Welcome to my page.
+Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick. I hope to develop a career in automotive design and development in the future.
 
 >View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
 
