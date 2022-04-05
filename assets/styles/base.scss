@@ -7,7 +7,7 @@
 }
 
 h1, h2, h3, h4, h5, h6, ol, ul, thead {
-  font-family: Poppins;
+  font-family: IBM Plex;
   color: var(--dark);
   font-weight: revert;
   margin: revert;
@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
 }
 
 p, ul, text {
-  font-family: 'Lato', sans-serif;
+  font-family: 'IBM Plex', sans-serif;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -31,7 +31,7 @@ p, ul, text {
 
 .mainTOC details summary {
   cursor: zoom-in;
-  font-family: Poppins;
+  font-family: IBM Plex;
   color: var(--dark);
   font-weight: 700;
 }
@@ -62,7 +62,7 @@ p, ul, text {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: Lato;
+    font-family: IBM Plex;
     font-weight: 700;
   }
 }
@@ -93,7 +93,7 @@ sup {
 }
 
 p, tbody, li {
-  font-family: Lato;
+  font-family: IBM Plex;
   color: var(--gray);
   line-height: 1.5em;
 }
@@ -150,7 +150,7 @@ td, th {
 .section {
   & h3 > a {
     font-weight: 700;
-    font-family: Poppins;
+    font-family: IBM Plex;
     margin: 0;
   }
   & p {
@@ -193,7 +193,7 @@ article {
   }
 
   & a {
-    font-family: Lato;
+    font-family: IBM Plex;
     font-weight: 600;
 
     &.internal-link {
@@ -226,7 +226,7 @@ sup > a {
 }
 
 a {
-  font-family: Poppins, sans-serif;
+  font-family: IBM Plex, sans-serif;
   font-size: 1em;
   font-weight: 700;
   text-decoration: none;
@@ -418,7 +418,7 @@ header {
     & > input {
       box-sizing: border-box;
       padding: 0.5em 1em;
-      font-family: Poppins, sans-serif;
+      font-family: IBM Plex, sans-serif;
       color: var(--dark);
       font-size: 1.1em;
       border: 1px solid var(--outlinegray);
