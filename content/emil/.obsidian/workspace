@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "5e09a9bc9fbbb378",
+    "id": "512315372d071d89",
     "type": "split",
     "children": [
       {
-        "id": "b05459c5b1aa28a5",
+        "id": "7a0e84bdd3f6720c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "projects/Interactive 3D website.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "00b5386a17489688",
+    "id": "bc885ca161046362",
     "type": "split",
     "children": [
       {
-        "id": "ffa8b9ae7c3dcbd0",
+        "id": "9a9d13ea436a41ec",
         "type": "tabs",
         "children": [
           {
-            "id": "b48b58df952e449f",
+            "id": "91c2de65a544c1b6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "18fe904f7d291c9f",
+            "id": "caf036494c6fd2c8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,22 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 288.5
   },
   "right": {
-    "id": "9300f679b4ecb6ca",
+    "id": "41a8f15c86f33cda",
     "type": "split",
     "children": [
       {
-        "id": "1d1d5b74d0688d95",
+        "id": "287184b26aeedd83",
         "type": "tabs",
         "children": [
           {
-            "id": "b124ffbddec7b37e",
+            "id": "3a522c1d76951ec1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "projects/Interactive 3D website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,6 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b05459c5b1aa28a5",
-  "lastOpenFiles": []
+  "active": "7a0e84bdd3f6720c",
+  "lastOpenFiles": [
+    "projects/Interactive 3D website.md",
+    "projects/Original portfolio website.md",
+    "projects/Engineering Design Portfolio.md",
+    "projects/Engineering Dragster Group Project.md",
+    "JLR Test Day/1) Motivational interview and Diamond 9.md",
+    "JLR Test Day/2) Behavioural interview Q&A.md",
+    "JLR Test Day/3) Pre-prepared presentation.md",
+    "JLR Test Day/The History and Future of Jaguar Land Rover - Article.md",
+    "JLR Test Day/Range Rover 2022 information.md",
+    "JLR Test Day/Extra/31 03 22.md"
+  ]
 }
