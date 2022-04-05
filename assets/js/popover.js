@@ -15,6 +15,7 @@ function initPopover(baseURL) {
         if (linkDest) {
           const popoverElement = `<div class="popover">
     <h3>${linkDest.title}</h3>
+    <p>${removeMarkdown(linkDest.content).split(" ", 20).join(" ")}...</p>
     <p class="meta">${new Date(linkDest.lastmodified).toLocaleDateString()}</p>
 </div>`
           const el = htmlToElement(popoverElement)
