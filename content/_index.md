@@ -1,9 +1,8 @@
 ---
 title: Emil Tsikhanovich
-disableToc: false
 ---
 
-#### Hello, I'm Emil. I'm a first-year Mechanical Engineering Student at the University of Warwick.
+#### Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the University of Warwick.
 
 View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
 
