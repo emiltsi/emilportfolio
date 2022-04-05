@@ -24,11 +24,10 @@ Here are some recent projects I've completed:
 
 ## Notes
 
-Below you can view a link to some notes and personal memoirs I've made. You can also use the **interactive graph** below.
+Below you can view a link to some personal thoughts and notes (mostly on cars) I've made. You can also use the **interactive graph** below.
 
-- [The automotive industry and cars](/tags/cars)
-- [All of my projects](/tags/projects)
-- [List of all of my notes](/emil)
+- [Automotive industry](/tags/cars)
+- [All of my other notes](/emil)
 
 
 ## Motivation
