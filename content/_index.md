@@ -41,7 +41,7 @@ I've always had a passion and interest for cars, and I hope to work in automotiv
 
 Feel free to email me at [emil.tsikhanovich@gmail.com](https://mailto:emil.tsikhanovich@gmail.com)
 
-Thank you
+Thank you.
 
 
 
