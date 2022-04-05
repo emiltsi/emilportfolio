@@ -10,10 +10,10 @@ View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc47
 
 Here are some recent projects I've completed:
 
-- [Original portfolio website](https://emiltsi.github.io)
-- [Interactive 3D website](/content/emil/projects/Interactive%203D%20website.md)
-- [Engineering Design Portfolio](/content/emil/projects/Engineering%20Design%20Portfolio.md)
-- [Engineering Dragster Group Project](/content/emil/projects/Engineering%20Dragster%20Group%20Project.md)
+- [Original portfolio website](emil/projects/Original%20portfolio%20website.md)
+- [Interactive 3D website](emil/projects/Interactive%203D%20website.md)
+- [Engineering Design Portfolio](emil/projects/Engineering%20Design%20Portfolio.md)
+- [Engineering Dragster Group Project](emil/projects/Engineering%20Dragster%20Group%20Project.md)
 
 
 ## Skills 
