@@ -1,5 +1,5 @@
 ---
-title: "Original portfoio website"
+title: "Original portfolio website"
 tags:
 - projects
 ---
@@ -10,9 +10,9 @@ tags:
 
 ## Overview
 
-Made with HTML, CSS and JS elements as part of a personal project.
+This website was made with HTML, CSS and JS elements as part of a personal project. This was my first published website.
 
-Responsive design with a blue colour scheme.
+I tried to incorporate a responsive design with a blue colour scheme. However, I wasn't fully happy with the design and layout of it (especially on mobile), so eventually decided to create the website you're on now.
 
 ![Image of website](/emil/images/emiltsi.png)
 
