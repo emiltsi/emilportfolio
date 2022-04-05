@@ -14,5 +14,5 @@ Made with HTML, CSS and JS elements as part of a personal project.
 
 Responsive design with a blue colour scheme.
 
-![Image of website](/content/emil/images/emiltsi.png)
+![Image of website](/emil/images/emiltsi.png)
 

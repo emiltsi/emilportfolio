@@ -13,4 +13,4 @@ tags:
 Made with Three.js and React.js - based on a template.
 
 
-![Image of website](/content/emil/images/portfoliotest.png)
+![Image of website](/emil/images/portfoliotest.png)

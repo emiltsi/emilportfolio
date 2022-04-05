@@ -10,6 +10,6 @@ This project was completed as part of Warwick's Engineering Design module. The m
 
 Below are some images of the design.
 
-![Slide 1](/content/emil/images/slide1.png)
-![Slide 2](/content/emil/images/slide2.png)
-![Slide 3](/content/emil/images/slide3.png)
+![Slide 1](/emil/images/slide1.png)
+![Slide 2](/emil/images/slide2.png)
+![Slide 3](/emil/images/slide3.png)
