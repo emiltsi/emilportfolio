@@ -30,7 +30,7 @@ Giving BMW free rein over Alpina's operations and models could spell disaster fo
 
 One such 'watering-down' could be in the form of condemning the brand to a simple trim level, in the same way that 'M-Sport' has become ubiquitous with a 190hp 320d  - not exactly the most worthy nameplate for such a vehicle. I'm not so sure whether adding an Alpina trim, alongside the M-Sport, would do wonders for the brand's image.
 
-### EV sub-brand?
+### EV sub-brand?
 
 Turning Alpina into an electric sub-brand, in the same way Polestar has with Volvo, isn't out of the realm of possibility. At least this way, BMW has something to differentiate between ICE M vehicles and EV Alpina models. Again, it would also fit the concept of 'understated performance' which Alpina bases itself on. It doesn't seem a terrible idea, especially in terms of preserving the image of Alpina. That is, despite those who state that Alpina's legacy is essentially doomed in this case. 
 

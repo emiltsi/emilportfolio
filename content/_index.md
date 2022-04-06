@@ -9,17 +9,17 @@ Hello, I'm Emil. I'm a first-year Mechanical Engineering student at the Universi
 
 Here are some recent projects I've completed:
 
-- [Original portfolio website](emil/projects/Original%20portfolio%20website.md)
-- [Interactive 3D website](emil/projects/Interactive%203D%20website.md)
+- [Website project](emil/projects/Original%20portfolio%20website.md)
 - [Engineering Design Portfolio](emil/projects/Engineering%20Design%20Portfolio.md)
-- [Engineering Dragster Group Project](emil/projects/Engineering%20Dragster%20Group%20Project.md)
+- [Engineering Group Project](emil/projects/Engineering%20Dragster%20Group%20Project.md)
+- [View all](tags/projects)
 
 
 ## Skills 
 
-- MathWorks MATLAB and Simulink
-- Fusion 360 CAD/CAE
-- HTML/CSS web development
+- Fusion 360 (CAD/CAE)
+- MATLAB and Simulink
+- Web development (HTML/CSS)
 - Native in Russian and English
 
 ## Notes
