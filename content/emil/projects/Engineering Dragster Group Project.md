@@ -4,7 +4,7 @@ tags:
 - projects
 ---
 
-**Link to the 3D model** [here](https://emiltsi.github.io/)
+>**Link to the 3D model** [here](https://emiltsi.github.io/)
 
 ## Overview
 
