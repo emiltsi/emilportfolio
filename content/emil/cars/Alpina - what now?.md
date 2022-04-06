@@ -3,6 +3,8 @@ title: "Alpina - what now?"
 tags:
 - cars
 ---
+![Alpina B3 Touring](/emil/images/alpinab3touring.png)
+
 
 ## Overview
 
