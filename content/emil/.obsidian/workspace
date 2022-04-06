@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cars/placeholder.md",
+            "file": "cars/Alpina - what now?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cars/placeholder.md",
+                "file": "cars/Alpina - what now?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,8 @@
   },
   "active": "8f8d48f21fda3baa",
   "lastOpenFiles": [
-    "cars/placeholder.md",
+    "cars/Alpina - what now?.md",
+    "cars/Subscription models - a plague on the industry.md",
     "projects/Original portfolio website.md",
     "cars/Untitled.md",
     "projects/Engineering Design Portfolio.md",
@@ -96,7 +97,6 @@
     "projects/Engineering Dragster Group Project.md",
     "JLR Test Day/1) Motivational interview and Diamond 9.md",
     "JLR Test Day/2) Behavioural interview Q&A.md",
-    "JLR Test Day/3) Pre-prepared presentation.md",
-    "JLR Test Day/The History and Future of Jaguar Land Rover - Article.md"
+    "JLR Test Day/3) Pre-prepared presentation.md"
   ]
 }
