@@ -7,8 +7,11 @@
         "id": "e999bd664df9279c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "cars/Alpina - what now?.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cars/Alpina - what now?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,14 +89,14 @@
   "active": "e999bd664df9279c",
   "lastOpenFiles": [
     "cars/Alpina - what now?.md",
+    "images/alpinab3touring.png",
+    "images/alpina.png",
     "cars/Subscription models - a plague on the industry.md",
     "projects/Original portfolio website.md",
     "cars/Untitled.md",
     "projects/Engineering Design Portfolio.md",
     "projects/Interactive 3D website.md",
     "projects/Engineering Dragster Group Project.md",
-    "JLR Test Day/1) Motivational interview and Diamond 9.md",
-    "JLR Test Day/2) Behavioural interview Q&A.md",
-    "JLR Test Day/3) Pre-prepared presentation.md"
+    "JLR Test Day/1) Motivational interview and Diamond 9.md"
   ]
 }
