@@ -1,5 +1,6 @@
 ---
 title: "Are subscription models the future?"
+date: 2022-04-07
 tags:
 - cars
 ---
