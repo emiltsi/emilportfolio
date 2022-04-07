@@ -6,4 +6,5 @@ This is my personal website, built on code from Quartz.
 
 Resume sections, projects section, blog section.
 
-<img alt="Image of website" src="https://user-images.githubusercontent.com/101522174/161788218-27af277d-a448-45c6-95b5-592be53690f6.png">
+
+![Kapture 2022-04-07 at 22 48 18](https://user-images.githubusercontent.com/101522174/162325681-5e7c84d3-4e28-4e84-a2a9-3ccfc34e9085.gif)
