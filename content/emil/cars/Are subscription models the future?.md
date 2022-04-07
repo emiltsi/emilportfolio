@@ -14,17 +14,22 @@ Recently, Mercedes unveiled that the rear-wheel steering system on their flagshi
 
 Audi has been engaging in similar behaviour as seen in a viral [Reddit video](https://www.reddit.com/r/mildlyinfuriating/comments/tk43nu/thank_you_audi/), where basic HVAC functions were blocked for a certain customer in Denmark upon pressing a button. Instead, the infotainment showed a message proclaiming that the function had not yet been purchased.
 
-I have personal experience with this. Someone I know owns an F40 1 Series, which has the necessary sensors and buttons for high-beam assist in the headlights from factory. However, upon pressing the button the activate it on the signal stalk, you are urged to *purchase* the feature on the BMW Store for a one-off sum of a few hundred pounds.
+I have personal experience with this. Someone I know owns an F40 1 Series, clad with the necessary sensors and buttons for high-beam assist in the headlights from factory. However, upon pressing the button the activate it on the indicator stalk, you are urged to *purchase* the feature on the BMW Store for a one-off sum of £160 from the ConnectedDrive store. 
 
-The most glaring issue with this lays in the fact that spending the extra money and resources to incorporate features in the car (such as heated seats, active cruise control etc.) locked behind a paywall from factory seems slightly peculiar. Why provide a feature in a vehicle, and then lock it from the customer who is supposed to use it? This all makes a lot more sense for cloud and internet-based services, not physical ones.
+![High Beam Assist purchase]/emil/images/subscription1.png)
+![High Beam Assist purchase 2]/emil/images/subscription2.png)
 
-On the other hand, there is a positive in that this simplifies the logistics and manufacturing supply chain somewhat, as there are now less variations of a particular car to make every single time. This is becoming especially relevant as buttons and features are being incorporated in the infotainment system. In the advent of Industry 4.0 and the Internet of Things, basing vehicles on software is undoubtedly the future. The average consumer of vehicles will benefit from this, in that the feature-set and overall ecosystem of a vehicle is very similar to other appliances that you would find in the home.
+In the advent of Industry 4.0 and the Internet of Things, basing vehicles on software in this way is undoubtedly the future. Tesla has arguably been the innovator in this, but BMW has recently released 5G for the first time as part of their iDrive 8.0 infotainment system.
 
-Alongside this, reducing the feature-set of a the car can help alleviate base costs. The driver can then easily decide whether they want to incorporate a feature into their vehicle selectively. This is an improvement towards feature 'packages' most cars have nowadays, which sometimes contain redundant options a customer may not want. 
+In some ways, it makes sense. Doing this simplifies the manufacturing and economies of scale during production. For the most part, everything is already in the vehicle, so there is less variation and complexity on the production line.
+
+The customer can then add features as they please, almost like apps. This is now very much integrated into apps like MyAudi, Volkswagen WeConnect and JLR InControl, where features such as high-beam assist (as I mentioned) and adaptive cruise control can be added to the feature set of the vehicle. This is an improvement towards feature 'packages' most cars have nowadays, which sometimes contain redundant options a customer may not want. 
+
+The most glaring issue with this lays in the fact that spending the extra money and resources to incorporate features in the car (such as heated seats, active cruise control etc.) locked behind a paywall from factory seems slightly strange. Why provide a feature in a vehicle, and then lock it from the customer who is supposed to use it? In some senses, it's simply the product of the mass digitisation of our world. It's not necessarily a bad thing either - just something car users will have warm up to.
 
 ## Conclusion
 
-In my opinion, as long as these subscription services are left for less critical features (and preferably digital services relating the infotainment system) and not forced upon the user, then it could work. It's likely that the EU will introduce legislation regarding the terms of these products and services, which will increase trust in car manufacturers to do it right. It is a slippery slope, and one which I imagine some car manufacturers will have issues with integrating.
+In my opinion, as long as these subscription services are left for less critical features (and preferably digital services such as traffic information, infotainment features etc.) and not forced upon the user, then it could work quite well. It's likely that the EU will introduce legislation regarding the terms of these products and services, which will increase trust in car manufacturers to do it right. There have no doubt been some recent blunders in how this system has been integrated recently, but as this becomes more polished it will very much be a normality.
 
 
 
