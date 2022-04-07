@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "02109da510dd5d5b",
+        "id": "9885390bb7607aec",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "cars/Are subscription models the future?.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cars/Are subscription models the future?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,10 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02109da510dd5d5b",
+  "active": "9885390bb7607aec",
   "lastOpenFiles": [
+    "cars/Are subscription models the future?.md",
     "cars/Alpina - what now?.md",
-    "cars/Subscription models - a plague on the industry.md",
     "images/alpinab3touring.png",
     "images/alpina.png",
     "projects/Original portfolio website.md",
