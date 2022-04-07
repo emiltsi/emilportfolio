@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e999bd664df9279c",
+        "id": "02109da510dd5d5b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "cars/Alpina - what now?.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cars/Alpina - what now?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +82,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e999bd664df9279c",
+  "active": "02109da510dd5d5b",
   "lastOpenFiles": [
     "cars/Alpina - what now?.md",
     "cars/Subscription models - a plague on the industry.md",
