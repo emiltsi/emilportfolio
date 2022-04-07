@@ -16,8 +16,8 @@ Audi has been engaging in similar behaviour as seen in a viral [Reddit video](ht
 
 I have personal experience with this. Someone I know owns an F40 1 Series, clad with the necessary sensors and buttons for high-beam assist in the headlights from factory. However, upon pressing the button the activate it on the indicator stalk, you are urged to *purchase* the feature on the BMW Store for a one-off sum of £160 from the ConnectedDrive store. 
 
-![High Beam Assist purchase]/emil/images/subscription1.png)
-![High Beam Assist purchase 2]/emil/images/subscription2.png)
+![High Beam Assist purchase](/emil/images/subscription1.png)
+![High Beam Assist purchase 2](/emil/images/subscription2.png)
 
 In the advent of Industry 4.0 and the Internet of Things, basing vehicles on software in this way is undoubtedly the future. Tesla has arguably been the innovator in this, but BMW has recently released 5G for the first time as part of their iDrive 8.0 infotainment system.
 
