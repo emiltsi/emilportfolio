@@ -12,8 +12,8 @@ Here are some recent projects I've completed:
 - [Website project](emil/projects/Original%20portfolio%20website.md)
 - [Engineering Design Portfolio](emil/projects/Engineering%20Design%20Portfolio.md)
 - [Engineering Group Project](emil/projects/Engineering%20Dragster%20Group%20Project.md)
-- [View all](tags/projects)
 
+[View all](tags/projects)
 
 ## Skills 
 
@@ -24,10 +24,11 @@ Here are some recent projects I've completed:
 
 ## Notes
 
-Below you can view a link to some personal thoughts and notes (mostly on cars) I've made. You can also use the **interactive graph** below.
+Below you can view links to random notes I've made. You can also use the **interactive graph** below.
 
-- [Automotive industry](/tags/cars)
-- [All of my other notes](/emil)
+- [Cars](/tags/cars)
+- [Personal](/tags/personal)
+- [All notes](/emil)
 
 
 ## Background
@@ -38,7 +39,7 @@ This website is based on source code from Quartz and [Obsidian](https://obsidian
 
 Feel free to email me at [emil.tsikhanovich@gmail.com](https://mailto:emil.tsikhanovich@gmail.com)
 
-**Thank you.**
+**Thanks**
 
 
 
