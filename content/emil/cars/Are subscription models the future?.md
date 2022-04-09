@@ -34,7 +34,7 @@ In my opinion, as long as these subscription services are left for less critical
 
 
 
-[^1]: The 2022 Range Rover is a perfect example of this, with their new over-the-air system architecture supporting 69 ECUs at once. This is alongside BMW's strong focus on car connectivity with 5G. 
+[^1]: The 2022 Range Rover is a perfect example of this, with their new over-the-air system architecture supporting 69 ECUs at once. This is alongside BMW's strong focus on car connectivity with 5G tech. 
 
 
 
