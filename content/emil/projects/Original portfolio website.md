@@ -10,7 +10,7 @@ tags:
 
 ## Overview
 
-This website was made with HTML, CSS and JS elements as part of a personal project. This was my first published website. You can view a similar project with my [Interactive 3D website](projects/Interactive%203D%20website.md)
+This website was made with HTML, CSS and JS elements as part of a personal project. This was my first published website. You can view a similar project with my [[Interactive 3D website]]
 
 I tried to incorporate a responsive design with a blue colour scheme. However, I wasn't fully happy with the design and layout of it (especially on mobile), so eventually decided to create the website you're on now.
 

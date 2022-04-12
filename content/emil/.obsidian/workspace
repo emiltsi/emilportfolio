@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projects/Engineering Dragster Group Project.md",
+            "file": "cars/Alpina - what now?.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Engineering Dragster Group Project.md",
+                "file": "cars/Alpina - what now?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27c6f4fe13c873bf",
   "lastOpenFiles": [
-    "projects/Engineering Dragster Group Project.md",
-    "projects/Interactive 3D website.md",
-    "projects/Original portfolio website.md",
     "cars/Alpina - what now?.md",
-    "projects/Engineering Design Portfolio.md",
+    "images/april7-1.jpg",
+    "images/april7-2.jpg",
+    "images/portfoliotest.png",
+    "images/slide1.png",
+    "images/slide3.png",
+    "images/subscription1.png",
     "personal/April 7, 2022.md",
-    "cars/Are subscription models the future?.md",
-    "images/alpinab3touring.png",
-    "images/alpina.png",
-    "cars/Untitled.md"
+    "projects/Original portfolio website.md",
+    "projects/Engineering Design Portfolio.md"
   ]
 }

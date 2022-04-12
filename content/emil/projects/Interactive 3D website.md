@@ -12,7 +12,7 @@ tags:
 
 This website was made after my intial portfolio. I made an interactive splash screen, including a free open-source model taken from [Sketchfab](https://sketchfab.com/3d-models/free-porsche-911-carrera-4s-d01b254483794de3819786d93e0e1ebf). Credits go to [Raja Osama](https://github.com/Raja0sama/rm-portfolio), who provided a template for the website on GitHub.
  
-This was made after my [Original portfolio website](projects/Original%20portfolio%20website.md). Everything was made with Three.js and React.js elements. Feel free to click the link to take a look.
+This was made after my [[Original portfolio website]]. Everything was made with Three.js and React.js elements. Feel free to click the link to take a look.
 
 
 ![Image of website](/emil/images/portfoliotest.png)
