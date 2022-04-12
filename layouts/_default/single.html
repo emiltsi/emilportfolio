@@ -19,11 +19,6 @@
         Published {{ .Date.Format "January 2, 2006" }}
       </p>
     {{end}}
-    {{if ne .Date .Lastmod}}
-      <p class="meta">
-        Last Updated {{ .Lastmod.Format "January 2, 2006" }}
-      </p>
-    {{end}}
       <ul class="tags">
           {{ range (.GetTerms "tags") }}
           <li><a href="{{ .Permalink }}">{{ .LinkTitle | humanize }}</a></li>
