@@ -8,7 +8,7 @@ tags:
 
 ## Overview
 
-This group project was completed as part of Warwick's Engineering Design module. The main task involved the creation of a self-powered dragster, which worked off spring tension and gear ratios to drive the rear axle.
+This group project was completed as part of Warwick's Engineering Design module. The main task involved the creation of a self-powered dragster, which worked off spring tension and gear ratios to drive the rear axle. This project was completed in Term 2, after the [Engineering Design Portfolio](projects/Engineering%20Design%20Portfolio.md).
 
 ## The project
 
