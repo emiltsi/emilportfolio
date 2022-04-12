@@ -26,8 +26,6 @@ Here are some recent projects I've completed:
 
 Below you can view links to random notes I've made. You can also use the **interactive graph** below.
 
-- [Cars](/tags/cars)
-- [Personal](/tags/personal)
 - [All notes](/emil)
 
 
