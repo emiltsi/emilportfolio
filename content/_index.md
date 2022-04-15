@@ -29,7 +29,7 @@ You can see a collection of random notes and thoughts I've made below:
 - [Cars](tags/cars)
 - [Personal](tags/personal)
 
-View [All](/emil).
+[View All](/emil).
 
 ## Background
 
@@ -37,7 +37,7 @@ This website is based on source code from Quartz and [Obsidian](https://obsidian
 
 ## Contact
 
-Feel free to email me at [emil.tsikhanovich@gmail.com](https://mailto:emil.tsikhanovich@gmail.com)
+Feel free to email me at [emil.tsikhanovich@gmail.com](https://mailto:emil.tsikhanovich@gmail.com).
 
 **Thanks**
 
