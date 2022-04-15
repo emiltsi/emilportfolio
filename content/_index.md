@@ -22,13 +22,6 @@ Here are some recent projects I've completed:
 - Web development (HTML/CSS)
 - Native in Russian and English
 
-## Notes
-
-Below you can view links to random notes I've made. You can also use the **interactive graph** below.
-
-- [All notes](/emil)
-
-
 ## Background
 
 This website is based on source code from Quartz and [Obsidian](https://obsidian.md/) markdown.
