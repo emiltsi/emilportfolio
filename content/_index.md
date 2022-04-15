@@ -22,6 +22,14 @@ Here are some recent projects I've completed:
 - Web development (HTML/CSS)
 - Native in Russian and English
 
+## Notes
+
+You can see a collection of notes I've made below:
+
+- [Cars](tags/cars)
+- [Personal](tags/personal)
+- [All](/emil)
+
 ## Background
 
 This website is based on source code from Quartz and [Obsidian](https://obsidian.md/) markdown.
