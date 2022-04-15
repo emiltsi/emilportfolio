@@ -39,7 +39,7 @@ This website is based on source code from Quartz and [Obsidian](https://obsidian
 
 Feel free to email me at [emil.tsikhanovich@gmail.com](https://mailto:emil.tsikhanovich@gmail.com).
 
-**Thanks**
+**Thanks.**
 
 
 
