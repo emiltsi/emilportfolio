@@ -24,11 +24,12 @@ Here are some recent projects I've completed:
 
 ## Notes
 
-You can see a collection of notes I've made below:
+You can see a collection of random notes and thoughts I've made below:
 
 - [Cars](tags/cars)
 - [Personal](tags/personal)
-- [All](/emil)
+
+View [All](/emil).
 
 ## Background
 
