@@ -26,9 +26,6 @@ Here are some recent projects I've completed:
 
 You can see a collection of random notes and thoughts I've made below:
 
-- [Cars](tags/cars)
-- [Personal](tags/personal)
-
 [View All](/emil)
 
 ## Background
