@@ -9,7 +9,6 @@ Hello, I'm Emil Tsikhanovich. I'm a first-year Mechanical Engineering student at
 
 Here are some recent projects I've completed:
 
-- [Website project](emil/projects/Original%20portfolio%20website.md)
 - [Engineering Design Portfolio](emil/projects/Engineering%20Design%20Portfolio.md)
 - [Engineering Group Project](emil/projects/Engineering%20Dragster%20Group%20Project.md)
 
