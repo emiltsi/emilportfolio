@@ -18,7 +18,6 @@ Here are some recent projects I've completed:
 
 - Fusion 360 (CAD/CAE)
 - MATLAB and Simulink
-- Web development (HTML/CSS)
 - Native in Russian and English
 
 ## Notes
