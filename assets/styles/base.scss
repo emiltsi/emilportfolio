@@ -7,7 +7,7 @@
 }
 
 h1, h2, h3, h4, h5, h6, ol, ul, thead {
-  font-family: Inter;
+  font-family: JetBrains Mono;
   color: var(--dark);
   font-weight: revert;
   margin: revert;
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
 }
 
 .hanchor {
-  font-family: Inter;
+  font-family: JetBrains Mono;
   margin-left: -1em;
   opacity: 0.3;
   transition: opacity 0.3s ease;
@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, ol, ul, thead {
 }
 
 p, ul, text {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'IBM Plex Sans', sans-serif;
   color: var(--gray);
   fill: var(--gray);
   font-weight: revert;
@@ -75,7 +75,7 @@ p, ul, text {
   }
 
   & > li::marker, & > li > ol > li::marker {
-    font-family: Source Sans Pro;
+    font-family: IBM Plex Sans;
     font-weight: 700;
   }
 }
