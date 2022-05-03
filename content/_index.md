@@ -1,11 +1,9 @@
 ---
 title: emilt.xyz
 ---
-[LinkedIn](https://www.linkedin.com/in/emil-tsikhanovich-8654031b0/) · [Email](https://mailto:emil.tsikhanovich@gmail.com) · [GitHub](https://github.com/emiltsi/)
-
 Hello, my name is Emil. I'm a first-year Mechanical Engineering student at the University of Warwick, with an interest in automotive design and development.
 
->View my CV [here](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view)
+>[Linkedin](https://www.linkedin.com/in/emil-tsikhanovich-8654031b0/) · [Resume](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view) · [Email](https://mailto:emil.tsikhanovich@gmail.com) · [Github](https://github.com/emiltsi/)
 
 ## Projects
 
