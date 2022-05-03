@@ -28,7 +28,7 @@ You can see a collection of random notes and thoughts I've made below:
 
 ## Photos
 
-View a page of photos I have taken [here](https://sites.google.com/view/emilphotos/home):
+View a page of photos I have taken [here](https://sites.google.com/view/emilphotos/home)
 
 ## Contact
 
