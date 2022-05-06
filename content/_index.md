@@ -3,7 +3,7 @@ title: emilt.xyz
 ---
 Hello, my name is Emil. I'm a first-year Mechanical Engineering student at the University of Warwick, with an interest in automotive design and development.
 
-[Resume](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view) ·  [Linkedin](https://www.linkedin.com/in/emil-tsikhanovich-8654031b0/) · [Photos](https://sites.google.com/view/emilphotos/home) · [Email](https://mailto:emil.tsikhanovich@gmail.com) · [Github](https://github.com/emiltsi/)
+[Resume](https://drive.google.com/file/d/1pToYvn9GSWlTPdeS1-IEGbN8qMc472RJ/view) ·  [Linkedin](https://www.linkedin.com/in/emil-tsikhanovich-8654031b0/) · [Photography](https://sites.google.com/view/emilphotos/home) · [Email](https://mailto:emil.tsikhanovich@gmail.com) · [Github](https://github.com/emiltsi/)
 
 ## Projects
 
@@ -14,21 +14,9 @@ Here are some recent projects I've completed:
 
 >[View all](tags/projects)
 
-## Skills 
+## Blog
 
-- Fusion 360 (CAD/CAE)
-- MATLAB and Simulink
-- Native in Russian and English
-
-## Notes
-
-You can see a collection of random notes and thoughts I've made below:
-
->[View All](/emil)
-
-## Photos
-
-View a page of photos I have taken [here](https://sites.google.com/view/emilphotos/home).
+Link to my informal blog [here](/emil)
 
 ## Contact
 
