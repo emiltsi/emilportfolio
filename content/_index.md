@@ -16,7 +16,7 @@ Here are some recent projects I've completed:
 
 ## Blog
 
-Link to my informal blog [here](/emil)
+Link to my informal blog [here](/tags/cars)
 
 ## Contact
 
