@@ -1,5 +1,5 @@
 ---
-title: "Engineering Dragster Group Project"
+title: "Mechanical Dragster Group Project"
 tags:
 - projects
 ---

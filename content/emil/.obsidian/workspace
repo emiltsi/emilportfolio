@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cars/Alpina - what now?.md",
+            "file": "projects/Truss Tower Group Project.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cars/Alpina - what now?.md",
+                "file": "projects/Truss Tower Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "27c6f4fe13c873bf",
   "lastOpenFiles": [
+    "projects/Truss Tower Group Project.md",
+    "projects/Mechanical Dragster Group Project.md",
+    "projects/Interactive 3D website.md",
+    "projects/Engineering Design Portfolio.md",
+    "projects/Original portfolio website.md",
     "cars/Alpina - what now?.md",
     "images/april7-1.jpg",
     "images/april7-2.jpg",
     "images/portfoliotest.png",
-    "images/slide1.png",
-    "images/slide3.png",
-    "images/subscription1.png",
-    "personal/April 7, 2022.md",
-    "projects/Original portfolio website.md",
-    "projects/Engineering Design Portfolio.md"
+    "images/slide1.png"
   ]
 }
