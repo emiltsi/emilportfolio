@@ -21,4 +21,5 @@ Overall, the project was a challenging test of statics expertise, as well as mor
 
 Below is a render of the final product. Please view the 3D web link at the top of the page to see an interactive model too.
 
+
 ![Image of truss tower](/emil/images/truss.png)

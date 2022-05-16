@@ -24,4 +24,5 @@ Overall, the project tested my abilities in manufacturing and working as a team 
 
 Our final model was quite successful - below is a render of the final product. Please view the 3D web link at the top of the page to see an interactive model too.
 
+
 ![Image of dragster](/emil/images/dragster.png)
