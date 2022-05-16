@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27c6f4fe13c873bf",
+        "id": "1606c926c048895a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "projects/Truss Tower Group Project.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/Truss Tower Group Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "27c6f4fe13c873bf",
+  "active": "1606c926c048895a",
   "lastOpenFiles": [
     "projects/Truss Tower Group Project.md",
+    "personal/April 15, 2022.md",
+    "personal/April 7, 2022.md",
     "projects/Mechanical Dragster Group Project.md",
     "projects/Interactive 3D website.md",
     "projects/Engineering Design Portfolio.md",
     "projects/Original portfolio website.md",
     "cars/Alpina - what now?.md",
     "images/april7-1.jpg",
-    "images/april7-2.jpg",
-    "images/portfoliotest.png",
-    "images/slide1.png"
+    "images/april7-2.jpg"
   ]
 }
