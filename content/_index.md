@@ -1,8 +1,6 @@
 ---
 title: emilt.xyz
 ---
-Hello, my name is Emil. I'm a first-year Mechanical Engineering student at the University of Warwick, with an interest in automotive design and development.
-
 [Linkedin](https://www.linkedin.com/in/emil-tsikhanovich-8654031b0/) · [Photography](https://sites.google.com/view/emilphotos/home) · [Email](https://mailto:emil.tsikhanovich@gmail.com)
 
 ## Projects
